@@ -12,6 +12,7 @@ namespace Sample.Web
         public void Initialize(ContainerBuilder builder)
         {
             //test push
+            //test push1
         }
 
         public void PostInitialize(ILifetimeScope container) { }
